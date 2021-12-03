@@ -81,9 +81,8 @@ exit
 :somewhere_else
 
 cls
-start chrome.exe https://www.instagram.com/yours_jarvis_01
+start chrome.exe https://www.instagram.com/_alpesh_01_x_yj
 start chrome.exe https://github.com/Yours-Jarvis/Private-Folder-v3.1.0/
-start chrome.exe https://discord.gg/db7bVCUAQ8
 
 goto End
 :FAIL
