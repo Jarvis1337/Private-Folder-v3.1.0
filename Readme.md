@@ -1,20 +1,18 @@
 [![Github Profile](https://img.shields.io/badge/Github-Yours_Jarvis-blueviolet?style=flat&logo=github&logoColor=white)](https://github.com/Yours-Jarvis/)
+![Shell Script](https://img.shields.io/badge/Batch_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 [![Github repo version](https://img.shields.io/badge/Private_Folder-v3.2.1-brightgreen?style=flat&logo=github&logoColor=white)](https://github.com/Yours-Jarvis/Private-Folder-v3.1.0/releases/tag/v3.1.0) 
 [![Github Releases](https://img.shields.io/badge/Github-Releases-ff0000?style=flat&logo=github&logoColor=white)](https://github.com/Yours-Jarvis/Private-Folder-v3.1.0/releases) 
 [![GitHub repo size](https://img.shields.io/github/repo-size/Yours-Jarvis/Private-Folder-v3.1.0?color=00ffff&label=Repository%20Size&logo=github)](https://github.com/Yours-Jarvis/Discord-24-7-Online-Client/)
 [![platform](https://img.shields.io/badge/Windows-BAT_File-000000?style=flat&logo=windows&logoColor=white)](https://replit.com/)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
-*<h1 align="">Private Folder <3...</h1>*
+*<h1 align="">Private-Folder-v3.1.0 <3...</h1>*
 *<h3>🚀 Windows System Batch File Script <3...</h3>*
 ***🔥 Lock and Hide Your Personal File And Date, With the Help of Using This Windows System Batch File Script <3...***
-
-***Default Password of Private Folder ----***
-                                                                                                          
-----
-                                                                                                                      
+```txt
+Default Password of Private Folder => "Linux-Jarvis"
+```
+-----                                                                                                                
 **IF YOU HAVE ANY DOUBTS REGARDING THIS, FEEL FREE TO [CONTACT ME!](https://github.com/Yours-Jarvis/)**
-
 - ***You Can Find Me Here: ----***
 - ***Discord and Instagram:***
 
@@ -27,7 +25,7 @@
   
 ----
 
-*<h3>✔ Discord-Online-Client Version ----</h3>*
+*<h3>✔ Private-Folder Version ----</h3>*
 
 - ***Current Version:***
   
@@ -42,4 +40,4 @@
 ----
 > *<h4 align="center">We Are Also Gonna Add Some More New Amazing & Existing Features...🚀 Please [follow](https://github.com/Yours-Jarvis) on [GitHub](https://github.com/Yours-Jarvis) to stay tuned with us for more Exciting future Updates like this. | © 2022 — Made By [Your's Jarvis #2431](https://discord.com/users/899961311771897877) with ♥</h4>*
 ----
-> *<h4 align="center">Discord-Online-Client © 2022 by Yours-Jarvis is licensed under GNU General Public License v3.0 and Attribution 4.0 International</h4>*
+> *<h4 align="center">Private-Folder © 2022 by Yours-Jarvis is licensed under GNU General Public License v3.0 and Attribution 4.0 International</h4>*
