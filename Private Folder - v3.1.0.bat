@@ -5,13 +5,13 @@ title Private Folder - Coded By Your's Jarvis
 if EXIST "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" goto UNLOCK
 if NOT EXIST Private goto MDLOCKER
 :CONFIRM
-echo Version 3.1.0
+echo.
+echo - Version 3.2.1
 echo.
 echo =======================================================
 echo "Coded By Your's Jarvis / Do Not Share Without Credits"
 echo =======================================================
-echo.
-timeout /t 5 /nobreak
+timeout /t 3 /nobreak
 title Private Folder - Lock Function
 echo.
 echo ============================================================
@@ -33,17 +33,14 @@ goto End
 :UNLOCK
 
 
-
-
-
-echo Version 3.1.0
+echo.
+echo - Version 3.2.1
 echo.
 echo =======================================================
 echo "Coded By Your's Jarvis / Do Not Share Without Credits"
 echo =======================================================
-echo.
-timeout /t 5 /nobreak
-start chrome.exe https://github.com/Yours-Jarvis/Private-Folder-v3.1.0/
+timeout /t 3 /nobreak
+start chrome.exe https://github.com/Yours-Jarvis/
 title Private Folder - Unlock Function
 echo.
 echo =============================================
@@ -51,10 +48,10 @@ echo  Enter Password to Unlock The Private folder!
 echo =============================================
 echo.
 set/p "pass=>"
-if NOT %pass%== "ENTER_YOUR_PASSWORD" goto FAIL
+if NOT %pass%== Linux-Jarvis goto FAIL
 attrib -h -s "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}"
 ren "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" Private
-title Private Folder - Coded By Iconic ff
+title Private Folder - Coded By Your's Jarvis
 echo.
 echo Private Folder Unlocked Successfully
 echo.
@@ -62,10 +59,9 @@ timeout /t 5 /nobreak
 title Private Folder - Help Page
 echo.
 echo.
-echo.
-echo ====================================
-echo  Would You Need A Help... (Yes/No) ?
-echo ====================================
+echo ==========================================
+echo  Would You Need A Help/Support... (Yes/No) ?
+echo ==========================================
 echo.
 :choise
 set/p "AREYOUSURE=>"
@@ -81,8 +77,9 @@ exit
 :somewhere_else
 
 cls
-start chrome.exe https://www.instagram.com/_alpesh_01_x_yj
+start chrome.exe https://yours-jarvis.github.io/Yours-Jarvis/
 start chrome.exe https://github.com/Yours-Jarvis/Private-Folder-v3.1.0/
+start chrome.exe https://www.instagram.com/_alpesh_01_x_yj
 
 goto End
 :FAIL
