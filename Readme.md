@@ -38,6 +38,6 @@ Default Password of Private Folder => "Linux-Jarvis"
 
 > *<h4 align="center">⭐ Feel free to Star the Repository if this helped you!</h4>*
 ----
-> *<h4 align="center">We Are Also Gonna Add Some More New Amazing & Existing Features...🚀 Please [follow](https://github.com/Yours-Jarvis) on [GitHub](https://github.com/Yours-Jarvis) to stay tuned with us for more Exciting future Updates like this. | © 2022 — Made By [Your's Jarvis #2431](https://discord.com/users/899961311771897877) with ♥</h4>*
+> *<h4 align="center">We Are Also Gonna Add Some More New Amazing & Existing Features...🚀 Please [follow](https://github.com/Yours-Jarvis) on [GitHub](https://github.com/Yours-Jarvis) to stay tuned with us for more Exciting future Updates like this. | © 2022 — Made By [Your's Jarvis](https://discord.com/users/899961311771897877) with ♥</h4>*
 ----
 > *<h4 align="center">Private-Folder © 2022 by Yours-Jarvis is licensed under BSL Boost Software License 1.0 and Attribution 3.0 International</h4>*
